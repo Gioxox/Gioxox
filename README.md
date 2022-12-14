@@ -1,4 +1,3 @@
-[![Gioxox's Profile](https://github-readme-stats.vercel.app/api?username=Gioxox&theme=tokyonight)](https://github.com/Gioxox/Gioxox/) 
 [![Gioxox's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gioxox&theme=tokyonight)](https://github.com/Gioxox/Gioxox/)
 
 <a href="https://github.com/Gioxox/IndovinaNumero">
